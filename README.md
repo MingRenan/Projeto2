@@ -1,6 +1,8 @@
 # Fruit Beverage Selector
 
-This project is a simple webpage built with HTML, CSS, and JavaScript that features a selection of different fruit beverages. The user can navigate through different fruit flavors using the provided buttons, which dynamically update the displayed fruit and beverage images. 
+This project is a simple webpage built with HTML, CSS, and JavaScript that features a selection of different fruit beverages. The user can navigate through different fruit flavors using the provided buttons, which dynamically update the displayed fruit and beverage images.
+
+![Fruit Beverage Preview](img/imagevew.png)
 
 ## Features:
 - **Responsive Design**: The layout is fully responsive, adapting to different screen sizes.
@@ -15,7 +17,6 @@ This project is a simple webpage built with HTML, CSS, and JavaScript that featu
 ## How to Run the Project
 1. Clone this repository:
     ```bash
-    git clone https://github.com/MingRenan/Projeto2.git
+    git clone https://github.com/your-username/your-repo-name.git
     ```
 2. Open the `index.html` file in your browser to view the webpage.
-
