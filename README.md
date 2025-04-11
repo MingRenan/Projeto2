@@ -17,6 +17,6 @@ This project is a simple webpage built with HTML, CSS, and JavaScript that featu
 ## How to Run the Project
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/your-username/your-repo-name.git](https://github.com/MingRenan/Projeto2.git
     ```
 2. Open the `index.html` file in your browser to view the webpage.
